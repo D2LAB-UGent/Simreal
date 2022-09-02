@@ -1,0 +1,29 @@
+{
+    "domain_randomization_type": "random",
+    "randomize_every": "episode",
+    "frequency": 1,
+    "params": {
+        "masscart": [
+            "mean_std",
+            [
+                1.0,
+                0.1
+            ]
+        ],
+        "masspole": [
+            "mean_std",
+            [
+                0.1,
+                0.01
+            ]
+        ],
+        "length": [
+            "mean_std",
+            [
+                0.5,
+                0.05
+            ]
+        ]
+    },
+    "distribution": "normal"
+}

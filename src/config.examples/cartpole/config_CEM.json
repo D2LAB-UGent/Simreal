@@ -1,0 +1,21 @@
+{
+    "log.freq": 1,
+    "env.id": [
+        "CustomCartPole-v1"
+    ],
+    "env.clip_action": true,
+    "train.generations": 3,
+    "train.popsize": 1000,
+    "train.worker_chunksize": 100,
+    "train.mu0": [
+        1.0,
+        0.1,
+        0.5
+    ],
+    "train.std0": [
+        0.1,
+        0.01,
+        0.05
+    ],
+    "train.elite_amount": 100
+}

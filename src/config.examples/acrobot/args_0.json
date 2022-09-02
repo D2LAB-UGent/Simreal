@@ -1,0 +1,36 @@
+{
+    "domain_randomization_type": "random",
+    "randomize_every": "episode",
+    "frequency": 1,
+    "params": {
+        "l1": [
+            "mean_std",
+            [
+                0.22,
+                0.05
+            ]
+        ],
+        "l2": [
+            "mean_std",
+            [
+                0.27,
+                0.05
+            ]
+        ],
+        "m1": [
+            "mean_std",
+            [
+                3.5,
+                0.5
+            ]
+        ],
+        "m2": [
+            "mean_std",
+            [
+                0.9,
+                0.2
+            ]
+        ]
+    },
+    "distribution": "normal"
+}

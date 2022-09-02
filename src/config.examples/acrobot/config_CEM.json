@@ -1,0 +1,23 @@
+{
+    "log.freq": 1,
+    "env.id": [
+        "CustomAcrobot-v1"
+    ],
+    "env.clip_action": true,
+    "train.generations": 3,
+    "train.popsize": 1000,
+    "train.worker_chunksize": 100,
+    "train.mu0": [
+        0.22,
+        0.27,
+        3.5,
+        0.9
+    ],
+    "train.std0": [
+        0.05,
+        0.05,
+        0.5,
+        0.2
+    ],
+    "train.elite_amount": 100
+}

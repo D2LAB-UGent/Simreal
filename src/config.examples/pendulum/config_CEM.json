@@ -1,0 +1,19 @@
+{
+    "log.freq": 1,
+    "env.id": [
+        "CustomPendulum-v0"
+    ],
+    "env.clip_action": true,
+    "train.generations": 3,
+    "train.popsize": 1000,
+    "train.worker_chunksize": 100,
+    "train.mu0": [
+        1.0,
+        1.0
+    ],
+    "train.std0": [
+        0.1,
+        0.1
+    ],
+    "train.elite_amount": 100
+}

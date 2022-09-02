@@ -1,0 +1,28 @@
+{
+    "log.freq": 5,
+    "checkpoint.num": 10,
+    "env.id": [
+        "CustomCartPole-v1"
+    ],
+    "env.normalize_obs": true,
+    "env.normalize_reward": true,
+    "nn.sizes": [
+        64,
+        64
+    ],
+    "agent.policy_lr": 0.0003,
+    "agent.use_lr_scheduler": false,
+    "agent.value_lr": 0.001,
+    "agent.gamma": 0.99,
+    "agent.gae_lambda": 0.95,
+    "agent.standardize_adv": true,
+    "agent.max_grad_norm": 0.5,
+    "agent.clip_range": 0.2,
+    "env.clip_action": true,
+    "agent.std0": 0.6,
+    "train.timestep": 100000,
+    "train.timestep_per_iter": 2048,
+    "train.batch_size": 64,
+    "train.num_epochs": 10,
+    "eval.num": 50
+}
