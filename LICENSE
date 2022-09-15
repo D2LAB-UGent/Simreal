@@ -1,0 +1,46 @@
+Copyright (c) 2022, Guillaume.Crevecoeur@UGent.be - Universiteit Gent - Ghent University.
+
+All rights reserved.
+
+The use of this SOFTWARE is strictly limited to (CONTRACT) RESEARCH
+purposes. This software may be used for the rendering of services
+against the payment of a fee in accordance with its technical
+documentation (intended use). 
+
+It is however strictly not allowed to use this software for inclusion
+(in whole or in part) in any software application, package or suite
+sold, rented, leased or provided to end users in any other way.
+
+Redistribution or dissemination of the software either in source or
+binary form is STRICTLY NOT PERMITTED; licensee shall direct any third
+party request for additional copies of this software to the authors as
+indicated in this readme.txt .
+
+Any improvements or developments of the SOFTWARE, including but not
+limited to error or bug fixes, code optimisations or new functionalities
+(the "DEVELOPMENTS") shall be posted on the REPOSITORY. By posting any
+DEVELOPMENTS on the REPOSITORY, the author of DEVELOPMENTS grants to the
+copyright holder of this SOFTWARE an irrevocable, fully paid up
+worldwide sublicensable licence to use and redistribute said
+DEVELOPMENTS.
+
+The names of the copyright holder, authors or of any contributors must
+not be used to endorse or promote products or services derived from this
+software without specific prior written permission. However, users will
+refer to the actual use of this software in accordance with best
+academic practices. 
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDER, AUTHORS AND
+CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING,
+BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND
+FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE
+COPYRIGHT HOLDER, AUTHORS OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT,
+INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
+(INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)
+HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT,
+STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN
+ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
+POSSIBILITY OF SUCH DAMAGE.
+
+Please direct any request for commercial licensing to Guillaume Crevecoeur (Guillaume.Crevecoeur@UGent.be)
